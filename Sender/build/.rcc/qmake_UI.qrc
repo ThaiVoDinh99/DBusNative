@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/UI">
-    <file alias="qmldir">/home/thaivodinh/Documents/Components/DBusNative/Sender/build/qmldir</file>
-  </qresource>
-</RCC>
-

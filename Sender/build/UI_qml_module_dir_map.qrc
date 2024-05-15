@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/UI">/home/thaivodinh/Documents/Components/DBusNative/Sender/build</file>
-
-  </qresource>
-</RCC>
