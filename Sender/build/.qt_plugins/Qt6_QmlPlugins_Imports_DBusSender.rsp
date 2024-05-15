@@ -1,0 +1,9 @@
+-rootPath
+/home/thaivodinh/Documents/Components/DBusNative/Sender
+-cmake-output
+-output-file
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/.qt_plugins/Qt6_QmlPlugins_Imports_DBusSender.cmake
+-importPath
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build
+-importPath
+/home/thaivodinh/Qt/6.5.3/gcc_64/./qml

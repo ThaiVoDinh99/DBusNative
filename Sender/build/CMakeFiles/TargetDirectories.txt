@@ -1,0 +1,17 @@
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI_automoc_json_extraction.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI_qmltyperegistration.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/all_qmltyperegistrations.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI_qmllint.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI_qmllint_json.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI_qmllint_module.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/all_qmllint.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/all_qmllint_json.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/all_qmllint_module.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI_tooling.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/DBusSender.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/DBusSender_qmlimportscan.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/edit_cache.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/rebuild_cache.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/UI_autogen.dir
+/home/thaivodinh/Documents/Components/DBusNative/Sender/build/CMakeFiles/DBusSender_autogen.dir

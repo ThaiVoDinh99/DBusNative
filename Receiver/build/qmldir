@@ -1,0 +1,4 @@
+module UI
+typeinfo UI.qmltypes
+prefer :/UI/
+
